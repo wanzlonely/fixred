@@ -1,8 +1,8 @@
 export const CONFIG = {
-    botToken: '8301511202:AAHUSxb-3Jomliqs0O7XpE_JEfjOwNwtSoE',
-    ownerId: '7650101390',
-    ownerUsername: 'walzyexploit',
-    requiredChannel: '@walzyexploit',
+    botToken: '8228167242:AAH8tGPdLUdiNGCG4EYG21s5twEy8M-xfXA',
+    ownerId: '8062935882',
+    ownerUsername: 'walzspy',
+    requiredChannel: '@otpspyx',
     redisUrl: "https://positive-oarfish-42273.upstash.io",
     redisToken: "AaUhAAIncDIxZGU1ZmJhYWRhMWU0NjRkYjAxOGUzNmExZTg0ZjkxN3AyNDIyNzM",
     maxEmails: 20,
