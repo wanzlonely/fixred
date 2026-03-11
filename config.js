@@ -3,8 +3,8 @@ export const CONFIG = {
     ownerId: '8062935882',
     ownerUsername: 'walzspy',
     requiredChannel: '@otpspyx',
-    redisUrl: "https://positive-oarfish-42273.upstash.io",
-    redisToken: "AaUhAAIncDIxZGU1ZmJhYWRhMWU0NjRkYjAxOGUzNmExZTg0ZjkxN3AyNDIyNzM",
+    redisUrl: "https://flowing-roughy-68218.upstash.io",
+    redisToken: "gQAAAAAAAQp6AAIncDJhNmM3ZmZiNjQ4NWU0N2MyYTFjMzc0YWE5ODUxMjUzNHAyNjgyMTg",
     maxEmails: 20,
     maxCountPerEmail: 15
 };
